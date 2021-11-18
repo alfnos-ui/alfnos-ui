@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alfnos-ui
+- 👋 Hi, I’m @ezequiel lucero
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...javascript  and python
 - 💞️ I’m looking to collaborate on simple proyect
